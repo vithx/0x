@@ -1,5 +1,5 @@
 <html><head>
-    <title>root@thlsn:~#</title>
+    <title>root@vithx</title>
     <meta name="viewport" content="width=device-width, user-scalable=no">
     <style>
         * {
